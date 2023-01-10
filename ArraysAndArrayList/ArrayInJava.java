@@ -7,14 +7,14 @@ public class ArrayInJava {
 
         // 1 D array
 
-        int[] arr = new int[2];
-        int[] arr2 = { 1, 2, 3, 4 };
+        // int[] arr = new int[2];
+        // int[] arr2 = { 1, 2, 3, 4 };
 
         // 2 D array
 
         // int[R][C]
 
-        int[][] tdArr = new int[3][];
+        // int[][] tdArr = new int[3][];
         // Mentioning coulums is not necessary beacuse of memory alloation
 
         int[][] tdArr2 = {
