@@ -1,0 +1,4 @@
+For approaching pattern problems you need following :- 
+a) Identify the number of rows = number of line in pattern = number of times loop would run 
+b) Identify number of columns in that row 
+c) Identify what shall be printed
